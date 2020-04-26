@@ -15,7 +15,7 @@ It offers 3 core platforms to manage and assess member's requirements:
 
 * Oscar Mobile App: Although, in todays insurance environment apps abound, Oscar curated a top-notch tech team early in its life-cycle to create an app based platform to help patients engage, communicate, and manage their medical needs. They have tweaked it over the last 7 years to include management of health assessments, appointments, prevention tools, claims and lab reports. Reminders of annual checkups and follow-ups, and online appointment bookings are standard. 
 
-* Telemedicine Platform: In the era of COVID-19, Telehealth has become a given for all insurance providers. However, Oscar members have had access to this service free of charge, 24/7, since January 2014. Pre-screened Doctors are provided with technology to assess patients without ever stepping into the office; a cost and time-savings for both patient and medical practitioner.  
+* Telemedicine Platform: In the era of COVID-19, telehealth has become a given for all insurance providers. However, Oscar members have had access to this service free of charge, 24/7, since January 2014. Pre-screened Doctors are provided with technology to assess patients without ever stepping into the office; a cost and time-savings for both patient and medical practitioner.  
 
 * Concierge Team: At the onset of becoming a member of Oscar, patients are assigned a six-person team to be the patients personal healthcare "concierge". This team includes a nurse that has reviewed the patients health records, who will help in choosing doctors, setting up appointments, and getting referrals. Other members of the team help with claims, benefits and payments. Engaging the patient with this team early on builds trust and loyalty to the brand.
 
