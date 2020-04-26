@@ -1,0 +1,64 @@
+# Oscar Insurance Corporation
+![](/Users/heenaroy/Desktop/FinTech/CaseStudyResources/Oscar_logo_rgb.png)
+
+
+## Overview and Origin
+
+Oscar Insurance Corporation (Oscar) was incorporated in 2012 by Mario Schlosser (CEO), Joshua Kushner, and Kevin Nazemi. These Harvard Business School classmates started the business in response to their own bad experiences dealing with their Health Care Insurance providers.  The for-profit, privately held company has raised a total of $1.3 billion through 8 rounds of venture, private equity, and corporate funding. The company currently boasts approximately 420,000 members in 29 markets offering 3 products: Individual, Small Group, and Medicare Advantage.
+
+
+## Business Activities
+
+Oscar's core mission is to humanize the Health Care Insurance Industry by using technology and machine learning to customize healthcare to the patient's needs. 
+
+It offers 3 core platforms to manage and assess member's requirements:
+
+* Oscar Mobile App: Although, in todays insurance environment apps abound, Oscar curated a top-notch tech team early in its life-cycle to create an app based platform to help patients engage, communicate, and manage their medical needs. They have tweaked it over the last 7 years to include management of health assessments, appointments, prevention tools, claims and lab reports. Reminders of annual checkups and follow-ups, and online appointment bookings are standard. 
+
+* Telemedicine Platform: In the era of COVID-19, Telehealth has become a given for all insurance providers. However, Oscar members have had access to this service free of charge, 24/7, since January 2014. Pre-screened Doctors are provided with technology to assess patients without ever stepping into the office; a cost and time-savings for both patient and medical practitioner.  
+
+* Concierge Team: At the onset of becoming a member of Oscar, patients are assigned a six-person team to be the patients personal healthcare "concierge". This team includes a nurse that has reviewed the patients health records, who will help in choosing doctors, setting up appointments, and getting referrals. Other members of the team help with claims, benefits and payments. Engaging the patient with this team early on builds trust and loyalty to the brand.
+
+
+On the other side of Oscar's business model is its vendor facing operations. As a technology company at heart, Oscar has created new algorithms and used AI to streamline claim processing systems, assess healthcare providers, and improve real-time feedback to clinicians. In addition they've created partnerships with existing Health Systems in different markets to provide further cost-benefits to their members.
+
+
+
+
+## Landscape:
+
+Oscar is a player in the InsurTech domain of FinTech. Health and Medical Insurance is a $1 trillion industry, with 330 million people in the U.S. marketplace. There have been very few new entrants in the domain. Companies like Bright Health (2015), Clover Health (2014), and Collective Health are making headway in the InsureTech domain, but in the medical records, hospital insurance, and self-insurance niches.
+
+Established Healthcare Insurance providers such as UnitedHealth, Kaiser Permanente, EmblemHealth, Health Insurance Innovations, and PriorityHealth are among Oscar's biggest competitors. These companies run on legacy systems and have poor customer service, and have been slow to market with mobile based apps and telehealth. Vendor facing technologies have not been updated to speed the process of claims and scoring systems for medical field workers are outdated. By building systems from the ground up, Oscar has brought the Healthcare Insurance Industry to the modern age.
+
+
+
+## Results
+
+Oscar has an estimated market value of $3.2 billion. Expected revenues for 2020 were supposed to top $2 billion. However, with the Covid-19 crisis, all insurance companies are suffering. One bright light: Oscar has made the code for their assessment tool available through open source for all other insurance companies to use. Additionally, being at the forefront of technology, they were the first to respond and provide real-time data in their markets.
+
+
+## Recommendations
+
+There are many young, up and coming companies in the InsurTech domain that are in smaller, more specialized niches in the field. Partnering up with them to add services could further enhance patient satisfaction. Companies such as Simplee, HealthExpense, and Patientco, provide services that help with aggregating patient bills, and companies such as  Pact Fitness and FitSense, provide data tracking on health benefits of exercise and sleep. These additional services would certainly enhance an already exceptional lineup of technological benefits Oscar is providing its members.
+
+## Resources
+
+* https://www.wired.com/story/oscar-health-ceo-mario-schlosser-interview/ (Health Care Is Broken. Oscar Health Thinks Tech Can Fix It.)
+* https://en.wikipedia.org/wiki/Health_insurance_coverage_in_the_United_States (Wikipedia page about the Health Care Industry in the USA)
+* https://en.wikipedia.org/wiki/Oscar_Health (Wikipedia page about Oscar Insurance Corporation)
+* https://www.fiercehealthcare.com/payer/how-oscar-health-harnessed-its-tech-enabled-dna-amid-covid-19-crisis (How Oscar Health is harnessing its tech-enabled DNA amid COVID-19 crisis)
+* https://craft.co/oscar-health/competitors (Oscar Health competitors)
+* https://techcrunch.com/2020/01/13/oscar-health-now-has-400000-members-and-expects-to-bring-in-2-billion-by-the-end-of-2020/ (Oscar Health now has 400,000 members and expects to bring $2 billion by the end of 2020)
+* https://assets.ctfassets.net/plyq12u1bv8a/2inErXoe7tlodKQDB64C6i/e70caf7e1fdc7d46930d9d244d39468a/Oscar_Financials_Fact_Sheet_03032020.pdf (Oscar_Financials_Fact_Sheet_03032020.pdf)
+https://www.hioscar.com/ (Oscar company website)
+* https://www.hioscar.com/blog/transforming-legacy-systems-into-a-modern-health-insurance-experience (Transforming legacy systems into a modern health insurance experience)
+* https://medium.com/oscar-tech (Insight from Oscar Health's data, engineering, product, and design teams)
+* https://www.disruptordaily.com/top-10-fintech-disrupting-healthcare/ (Top 10 FinTech Companies Disrupting Healthcare)
+* https://www.ibisworld.com/united-states/market-research-reports/health-medical-insurance-industry/ (Health & Medical Insurance in the US industry trends)
+* https://www.forbes.com/fintech/2020/#574240584acd (The Forbes Fintech 50: The Most Innovative Fintech Companies in 2020)
+* https://www.gigabitmagazine.com/fintech/rise-insurtech-new-dawn-insurance-industry (The rise of insurtech: a new dawn for the insurance industry)
+* https://www.digitalinsuranceagenda.com/7/seven-flavours-of-fintech-in-insurance/ (Seven flavours of fintech in insurance)
+* https://www.hioscar.com/2018yearendreport (Taking the Best Care of Our Members: Oscar 2018)
+* https://assets.ctfassets.net/plyq12u1bv8a/4KxyKmXuHoYFYuT1trD5Th/9865b1662b8cf45c17fce0fcedf8be66/Oscar2019YearInReview.pdf (2019 IN REVIEW A year of sustainable growth)
+* https://www.owler.com/company/hioscar (Oscar's Competitors, Revenue, Number of Employees, Funding and Acquisitions)
