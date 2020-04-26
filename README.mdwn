@@ -27,7 +27,7 @@ On the other side of Oscar's business model is its vendor facing operations. As 
 
 ## Landscape:
 
-Oscar is a player in the InsurTech domain of FinTech. Health and Medical Insurance is a $1 trillion industry, with 330 million people in the U.S. marketplace. There have been very few new entrants in the domain. Companies like Bright Health (2015), Clover Health (2014), and Collective Health are making headway in the InsureTech domain, but in the medical records, hospital insurance, and self-insurance niches.
+Oscar is a player in the InsurTech domain of FinTech. Health and Medical Insurance is a $1 trillion industry, with 330 million people in the U.S. marketplace. There have been very few new entrants in the domain. Companies like Bright Health (2015), Clover Health (2014), and Collective Health (2013) are making headway in the InsureTech domain, but in the medical records, hospital insurance, and self-insurance niches.
 
 Established Healthcare Insurance providers such as UnitedHealth, Kaiser Permanente, EmblemHealth, Health Insurance Innovations, and PriorityHealth are among Oscar's biggest competitors. These companies run on legacy systems and have poor customer service, and have been slow to market with mobile based apps and telehealth. Vendor facing technologies have not been updated to speed the process of claims and scoring systems for medical field workers are outdated. By building systems from the ground up, Oscar has brought the Healthcare Insurance Industry to the modern age.
 
