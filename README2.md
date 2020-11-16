@@ -1,2 +1,0 @@
-# HomeWork
-Oscar Insurance Company
