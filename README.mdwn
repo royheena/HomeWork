@@ -1,5 +1,5 @@
 # Oscar Insurance Corporation
-![](/Users/heenaroy/Desktop/FinTech/CaseStudyResources/Oscar_logo_rgb.png)
+![](/Oscar_logo_rgb.png)
 
 
 ## Overview and Origin
